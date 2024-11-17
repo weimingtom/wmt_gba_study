@@ -26,3 +26,12 @@ My GBA homebrew software study
 ## GBA開発Wiki  
 * http://akkera102.sakura.ne.jp/gbadev/
 * https://github.com/akkera102/gbadev-ja  
+
+## gba.rar  
+
+## AgbLib.rar  
+* AgbLib.rar
+* GBA编程开发工具.rar
+* GBA-doc.doc
+* GBA官方开发库.part1.rar
+* TOPOC_pspdev.rar  
