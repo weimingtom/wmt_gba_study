@@ -19,3 +19,10 @@ My GBA homebrew software study
 
 ## gba-dev-best-practice  
 * https://github.com/laqieer/gba-dev-best-practice  
+
+## skyfree  
+* http://www.skyfree.org/jpn/index.html
+
+## GBA開発Wiki  
+* http://akkera102.sakura.ne.jp/gbadev/
+* https://github.com/akkera102/gbadev-ja  
